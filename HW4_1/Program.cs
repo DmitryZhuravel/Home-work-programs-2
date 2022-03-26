@@ -20,4 +20,3 @@ int Level (int a, int b)
     return pow;
 }
 
-
